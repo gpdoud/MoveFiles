@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MoveFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\users\\gpdou\\downloads c:\\users\\gpdou\\downloads\\archive"
+    }
+  }
+}
